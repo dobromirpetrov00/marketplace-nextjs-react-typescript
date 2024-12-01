@@ -1,0 +1,136 @@
+.cart-dropdown {
+  position: absolute;
+  top: 60px;
+  right: 0px;
+  width: 300px;
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  background-color: white;
+}
+
+.empty-cart {
+  text-align: center;
+  color: gray;
+  padding: 10px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  align-items: center;
+}
+
+.cart-item-image {
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+}
+
+.cart-item-details {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 20px;
+}
+
+.cart-brand-price {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-brand {
+  font-size: 0.7rem;
+}
+
+.cart-price {
+  font-size: 0.7rem;
+}
+
+.cart-product-name {
+  display: flex;
+  font-size: 0.7rem;
+  margin: 0.5rem 0;
+}
+
+.cart-quantity-trash {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-quantity-buttons {
+  display: flex;
+}
+.cart-quantity-button-minus {
+  cursor: pointer;
+  background-color: lightgray;
+  border: none;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  width: 1.5rem;
+
+  &:not(:disabled):hover {
+    opacity: 50%;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
+
+.cart-quantity-button-plus {
+  cursor: pointer;
+  background-color: lightgray;
+  border: none;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  width: 1.5rem;
+
+  &:not(:disabled):hover {
+    opacity: 50%;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
+
+.cart-quantity {
+  padding: 0 10px;
+  border: 1px solid lightgray;
+}
+
+.cart-trash {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  font-size: 15px;
+
+  &:hover {
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+  }
+}
+
+.cart-checkout {
+  display: flex;
+  justify-content: center;
+}
+
+.cart-checkout-button {
+  width: 100%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: none;
+  background: green;
+  padding: 0.6rem;
+  color: white;
+  cursor: pointer;
+
+  &:hover {
+    opacity: 50%;
+  }
+}

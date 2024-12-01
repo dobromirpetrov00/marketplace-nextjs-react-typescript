@@ -64,7 +64,7 @@ npm start
 - `/checkout` - Checkout Page
 - `*` - Anything else - 404 Page
 
-## Feautures
+## Features
 - `Product Listing` - Browse and search for products
 - `Product Details` - View detailed information about a product
 - `Cart` - Add products to your cart and proceed to checkout

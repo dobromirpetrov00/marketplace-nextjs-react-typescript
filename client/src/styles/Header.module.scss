@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid gray;
+}
+
+.headerContent {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: darkblue;
+}
+.cartIconContainer {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.cartIconWrapper {
+  border: 1px lightgray solid;
+  background-color: lightgray;
+  border-radius: 50%;
+}
+
+.cartIcon {
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.cartItemCount {
+  position: absolute;
+  top: 5px;
+  right: 28px;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 12px;
+}

@@ -1,0 +1,987 @@
+[
+    {
+        "id": "ed8b63ca-f811-4011-8084-8b7a12c4c332",
+        "product_name": "Tresom",
+        "category": "Shirts",
+        "price": 193.04,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 0,
+        "release_date": "1/20/2013",
+        "description": "A classic shirt from Flying Dutchman's Tresom collection. Features a comfortable fit and durable fabric, perfect for everyday wear. Made with premium materials that represent the Flying Dutchman's commitment to quality.",
+        "selectible_option": null
+    },
+    {
+        "id": "7b7346e8-df66-4b2a-906f-54aa5f9ca22b",
+        "product_name": "Flowdesk",
+        "category": "Shoes",
+        "price": 832.57,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 1,
+        "release_date": "6/3/2020",
+        "description": "The Flowdesk shoes by Flying Dutchman offer exceptional comfort and style. These premium footwear pieces feature advanced cushioning technology and sleek design. Perfect for both casual and semi-formal occasions.",
+        "selectible_option": null
+    },
+    {
+        "id": "f5c4b052-1cf0-4956-b579-48c712aa2dff",
+        "product_name": "Tampflex",
+        "category": "Shoes",
+        "price": 458.27,
+        "brand": "Style Savvy",
+        "stock_quantity": 10,
+        "release_date": "8/6/2014",
+        "description": "Style Savvy's Tampflex shoes combine fashion with functionality. These trendsetting shoes feature a modern design with comfortable fit. The perfect choice for fashion-conscious individuals who value both style and comfort.",
+        "selectible_option": null
+    },
+    {
+        "id": "5f99710d-c88a-4bdd-958b-285e75f720ad",
+        "product_name": "Trippledex",
+        "category": "Shirts",
+        "price": 468.69,
+        "brand": "Style Savvy",
+        "stock_quantity": 2,
+        "release_date": "4/17/2016",
+        "description": "The Trippledex shirt from Style Savvy showcases contemporary fashion at its best. This versatile piece features modern cuts and premium fabric, making it perfect for those who appreciate sophisticated casual wear.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "red",
+                "blue"
+            ]
+        }
+    },
+    {
+        "id": "138775f6-ee58-4a56-976b-51a9e6d4e6cb",
+        "product_name": "Biodex",
+        "category": "Shirts",
+        "price": 463.6,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 2,
+        "release_date": "10/2/2021",
+        "description": "The Biodex shirt from Flying Dutchman combines classic style with modern comfort. Features breathable fabric and excellent craftsmanship, representing the brand's dedication to quality casual wear.",
+        "selectible_option": null
+    },
+    {
+        "id": "24bfb57a-2e03-4b16-bdfd-702162b3e3b5",
+        "product_name": "Solarbreeze",
+        "category": "Shoes",
+        "price": 930,
+        "brand": "Puppet Master",
+        "stock_quantity": 1,
+        "release_date": "8/12/2019",
+        "description": "Puppet Master's Solarbreeze shoes represent the pinnacle of footwear innovation. These premium shoes feature cutting-edge design and superior comfort technology, perfect for those who demand the best in both style and functionality.",
+        "selectible_option": null
+    },
+    {
+        "id": "6fed7d6e-6471-4be1-b113-931263030365",
+        "product_name": "Zoolab",
+        "category": "Shirts",
+        "price": 805.4,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 2,
+        "release_date": "5/26/2021",
+        "description": "The Zoolab shirt from Flying Dutchman offers a perfect blend of style and comfort. This premium casual wear features high-quality materials and expert tailoring, embodying the brand's commitment to excellence.",
+        "selectible_option": null
+    },
+    {
+        "id": "2b3cf986-3158-4d13-9d1f-16c9616fba78",
+        "product_name": "Tin",
+        "category": "Shirts",
+        "price": 773.82,
+        "brand": "Style Savvy",
+        "stock_quantity": 9,
+        "release_date": "12/31/2017",
+        "description": "Style Savvy's Tin shirt collection represents modern fashion at its finest. These carefully crafted shirts feature contemporary designs and premium materials, perfect for the fashion-forward individual.",
+        "selectible_option": null
+    },
+    {
+        "id": "a1338935-e892-4ea5-84fc-b1759a7d5c22",
+        "product_name": "Stim",
+        "category": "Shirts",
+        "price": 985.15,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 10,
+        "release_date": "10/22/2019",
+        "description": "The Stim shirt by Flying Dutchman exemplifies casual elegance. Featuring premium fabric and expert craftsmanship, this shirt offers both style and comfort for the discerning customer.",
+        "selectible_option": null
+    },
+    {
+        "id": "290e7ba8-9aa5-4cae-abb4-0b5fb988abac",
+        "product_name": "Quo Lux",
+        "category": "Shirts",
+        "price": 169.45,
+        "brand": "SoledSole",
+        "stock_quantity": 8,
+        "release_date": "2/12/2014",
+        "description": "The Quo Lux shirt from SoledSole offers contemporary style with exceptional comfort. This versatile piece features premium materials and modern design elements, perfect for any casual occasion.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "white",
+                "black"
+            ]
+        }
+    },
+    {
+        "id": "6dc9a546-6784-4dff-89ec-c3a9c37c5bed",
+        "product_name": "Rank",
+        "category": "Shirts",
+        "price": 195.77,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 7,
+        "release_date": "6/10/2012",
+        "description": "The Rank shirt by Flying Dutchman combines classic styling with modern comfort. This premium casual wear features quality materials and expert craftsmanship, embodying the brand's signature style.",
+        "selectible_option": null
+    },
+    {
+        "id": "83ed7b4a-5804-4699-943e-0b19f0a40605",
+        "product_name": "Alpha",
+        "category": "Shoes",
+        "price": 402.15,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 8,
+        "release_date": "4/19/2012",
+        "description": "Flying Dutchman's Alpha shoes deliver exceptional comfort and style. These premium footwear pieces feature innovative design and superior materials, perfect for those seeking quality and sophistication.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                39,
+                42
+            ]
+        }
+    },
+    {
+        "id": "eca2c10b-d1a6-42b9-aafc-0942319e174f",
+        "product_name": "Toughjoyfax",
+        "category": "Shirts",
+        "price": 426.27,
+        "brand": "SoledSole",
+        "stock_quantity": 1,
+        "release_date": "4/4/2014",
+        "description": "SoledSole's Toughjoyfax shirt represents urban fashion at its finest. This contemporary piece features innovative design elements and premium materials, perfect for the modern fashion enthusiast.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "blue",
+                "black"
+            ]
+        }
+    },
+    {
+        "id": "b91827f2-52bf-4703-8854-30d589cc0a16",
+        "product_name": "Vagram",
+        "category": "Shirts",
+        "price": 209.52,
+        "brand": "Puppet Master",
+        "stock_quantity": 4,
+        "release_date": "3/4/2021",
+        "description": "The Vagram shirt from Puppet Master showcases exceptional craftsmanship and style. This premium garment features sophisticated design elements and high-quality materials, reflecting the brand's commitment to excellence.",
+        "selectible_option": null
+    },
+    {
+        "id": "4448efd9-0f59-4c99-890f-333e47b7efe8",
+        "product_name": "Zamit",
+        "category": "Shoes",
+        "price": 401.78,
+        "brand": "Style Savvy",
+        "stock_quantity": 2,
+        "release_date": "12/13/2022",
+        "description": "Style Savvy's Zamit shoes exemplify modern footwear design. These fashion-forward shoes combine comfort with style, featuring premium materials and expert craftsmanship for the discerning customer.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                39,
+                38,
+                41
+            ]
+        }
+    },
+    {
+        "id": "6fa3f042-7ee3-4b76-ba38-ba835c467154",
+        "product_name": "Daltfresh",
+        "category": "Shoes",
+        "price": 180.72,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 6,
+        "release_date": "6/5/2020",
+        "description": "Flying Dutchman's Daltfresh shoes represent the perfect blend of comfort and style. These premium footwear pieces feature innovative design and superior materials, ensuring both durability and elegance.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                42,
+                41,
+                39
+            ]
+        }
+    },
+    {
+        "id": "83d301b3-1804-4cbe-80ec-57361bcf9f08",
+        "product_name": "Fixflex",
+        "category": "Shirts",
+        "price": 878.47,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 0,
+        "release_date": "4/29/2016",
+        "description": "The Fixflex shirt from Flying Dutchman delivers unmatched comfort and style. This premium casual wear features quality materials and meticulous attention to detail, perfect for those who appreciate refined fashion.",
+        "selectible_option": null
+    },
+    {
+        "id": "d39e00d6-54f4-4798-973b-3a38d28a7abe",
+        "product_name": "Stronghold",
+        "category": "Shoes",
+        "price": 551.63,
+        "brand": "SoledSole",
+        "stock_quantity": 10,
+        "release_date": "8/15/2016",
+        "description": "SoledSole's Stronghold shoes represent the pinnacle of modern footwear design. These premium shoes combine innovative technology with contemporary style, perfect for the fashion-conscious individual.",
+        "selectible_option": null
+    },
+    {
+        "id": "613e6535-9c5f-4223-8cc4-3b2664dee021",
+        "product_name": "Lotlux",
+        "category": "Shoes",
+        "price": 803.64,
+        "brand": "Style Savvy",
+        "stock_quantity": 5,
+        "release_date": "8/29/2018",
+        "description": "Style Savvy's Lotlux shoes embody contemporary elegance. These sophisticated footwear pieces feature premium materials and expert craftsmanship, delivering both style and comfort.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                39,
+                38,
+                41,
+                40
+            ]
+        }
+    },
+    {
+        "id": "fb838163-055b-4243-b4bf-edf9305fde9e",
+        "product_name": "Fix San",
+        "category": "Shirts",
+        "price": 501.39,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 3,
+        "release_date": "1/26/2015",
+        "description": "The Fix San shirt from Flying Dutchman represents casual elegance at its finest. This premium garment features quality materials and expert tailoring, delivering both comfort and style.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "black",
+                "red",
+                "white"
+            ]
+        }
+    },
+    {
+        "id": "fff8eda1-e00d-459f-a00f-991f234e7ce6",
+        "product_name": "Ronstring",
+        "category": "Shoes",
+        "price": 434.4,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 4,
+        "release_date": "1/12/2014",
+        "description": "Flying Dutchman's Ronstring shoes showcase premium footwear craftsmanship. These sophisticated shoes combine comfort with style, featuring quality materials and innovative design elements.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                38,
+                42,
+                40
+            ]
+        }
+    },
+    {
+        "id": "c6b42894-ac4f-4903-b391-0b3524d47460",
+        "product_name": "Sub-Ex",
+        "category": "Shirts",
+        "price": 216.48,
+        "brand": "Style Savvy",
+        "stock_quantity": 5,
+        "release_date": "12/21/2017",
+        "description": "Style Savvy's Sub-Ex shirt exemplifies modern fashion. This versatile garment features premium fabric and meticulous attention to detail, offering both style and comfort in everyday wear.",
+        "selectible_option": null
+    },
+    {
+        "id": "f0b78717-3588-4a63-b748-57c993128d0f",
+        "product_name": "Bitchip",
+        "category": "Shoes",
+        "price": 501.99,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 3,
+        "release_date": "8/24/2020",
+        "description": "Flying Dutchman's Bitchip shoes represent the pinnacle of footwear design. These exceptional shoes combine innovative styling with superior comfort, perfect for the modern trendsetter.",
+        "selectible_option": null
+    },
+    {
+        "id": "c9419905-0a6f-4ccf-8775-08009215fb1e",
+        "product_name": "Treeflex",
+        "category": "Shirts",
+        "price": 988.56,
+        "brand": "Puppet Master",
+        "stock_quantity": 9,
+        "release_date": "6/2/2013",
+        "description": "Puppet Master's Treeflex shirt collection showcases artistic expression in clothing. Each piece is crafted with attention to detail, featuring unique designs and comfortable materials.",
+        "selectible_option": null
+    },
+    {
+        "id": "43e102d3-0788-4438-afb1-9a8b288f8afe",
+        "product_name": "Cardify",
+        "category": "Shirts",
+        "price": 569.32,
+        "brand": "SoledSole",
+        "stock_quantity": 6,
+        "release_date": "10/18/2016",
+        "description": "SoledSole's Cardify shirt line brings urban style to casual wear. These shirts feature contemporary designs with high-quality materials, perfect for fashion-conscious individuals.",
+        "selectible_option": null
+    },
+    {
+        "id": "c1f5bdd5-6c1b-405f-89fb-e954167143f2",
+        "product_name": "Kanlam",
+        "category": "Shoes",
+        "price": 464.08,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 1,
+        "release_date": "7/16/2019",
+        "description": "The Kanlam shoes from Flying Dutchman deliver exceptional comfort and style. These sophisticated footwear pieces combine modern design with traditional craftsmanship.",
+        "selectible_option": null
+    },
+    {
+        "id": "f380d0e9-960d-473e-8092-781c7c784ed4",
+        "product_name": "It",
+        "category": "Shoes",
+        "price": 450.29,
+        "brand": "Style Savvy",
+        "stock_quantity": 8,
+        "release_date": "12/16/2022",
+        "description": "Style Savvy's It shoes represent contemporary footwear at its finest. These trendsetting shoes combine innovative design with premium materials for ultimate comfort and style.",
+        "selectible_option": null
+    },
+    {
+        "id": "07b8f910-0b2b-47cf-b8fc-a2a133696cce",
+        "product_name": "Andalax",
+        "category": "Shirts",
+        "price": 348.81,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 1,
+        "release_date": "4/14/2019",
+        "description": "Flying Dutchman's Andalax shirt collection embodies casual sophistication. Each piece features quality fabrics and expert tailoring, perfect for the modern wardrobe.",
+        "selectible_option": null
+    },
+    {
+        "id": "d4087537-5be9-4179-a7fa-ca6e1897cb01",
+        "product_name": "Pannier",
+        "category": "Shoes",
+        "price": 393.23,
+        "brand": "Style Savvy",
+        "stock_quantity": 5,
+        "release_date": "8/14/2014",
+        "description": "Style Savvy's Pannier shoes blend comfort with elegance. These versatile footwear pieces feature premium materials and expert craftsmanship for lasting quality.",
+        "selectible_option": null
+    },
+    {
+        "id": "aaf4a351-d26e-4497-a429-efb2803afcae",
+        "product_name": "Latlux",
+        "category": "Shirts",
+        "price": 105.22,
+        "brand": "Style Savvy",
+        "stock_quantity": 1,
+        "release_date": "11/12/2022",
+        "description": "The Latlux shirt from Style Savvy exemplifies modern fashion sensibility. This sophisticated garment features premium materials and precise tailoring for a perfect fit.",
+        "selectible_option": null
+    },
+    {
+        "id": "806b4177-65bb-4acd-ae16-9d149304d0a4",
+        "product_name": "Cardguard",
+        "category": "Shirts",
+        "price": 136.12,
+        "brand": "SoledSole",
+        "stock_quantity": 4,
+        "release_date": "3/12/2015",
+        "description": "SoledSole's Cardguard shirt represents urban fashion at its best. This contemporary piece combines style with comfort, featuring quality materials and modern design elements.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "white",
+                "blue",
+                "red",
+                "black"
+            ]
+        }
+    },
+    {
+        "id": "a8115611-6f28-4f04-9c5f-a2496f005079",
+        "product_name": "Domainer",
+        "category": "Shoes",
+        "price": 15.99,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 6,
+        "release_date": "12/11/2013",
+        "description": "Flying Dutchman's Domainer shoes deliver exceptional value and style. These comfortable footwear pieces combine durability with modern design elements.",
+        "selectible_option": null
+    },
+    {
+        "id": "0cca14c0-5f00-4785-9fdf-63a5223ac0a8",
+        "product_name": "Sonair",
+        "category": "Shirts",
+        "price": 11.36,
+        "brand": "Style Savvy",
+        "stock_quantity": 2,
+        "release_date": "3/13/2019",
+        "description": "Style Savvy's Sonair shirt collection represents affordable luxury. These stylish garments feature quality materials and contemporary designs for everyday wear.",
+        "selectible_option": null
+    },
+    {
+        "id": "6032318b-39e7-4c5b-8ec2-d086898d5d31",
+        "product_name": "Subin",
+        "category": "Shoes",
+        "price": 406.13,
+        "brand": "Style Savvy",
+        "stock_quantity": 8,
+        "release_date": "3/22/2015",
+        "description": "The Subin shoes from Style Savvy showcase modern footwear innovation. These sophisticated shoes combine comfort with style, featuring premium materials and expert craftsmanship.",
+        "selectible_option": null
+    },
+    {
+        "id": "e74bc67f-be9b-44fc-a29b-6d3fcc282a2c",
+        "product_name": "Aerified",
+        "category": "Shirts",
+        "price": 861.08,
+        "brand": "Style Savvy",
+        "stock_quantity": 4,
+        "release_date": "9/24/2014",
+        "description": "Style Savvy's Aerified shirt represents luxury fashion at its finest. This premium garment features exceptional materials and precise tailoring for a sophisticated look.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "blue",
+                "white",
+                "red",
+                "black"
+            ]
+        }
+    },
+    {
+        "id": "f7d0b043-20a9-46b9-8f8d-49bb0d81e0f4",
+        "product_name": "Gembucket",
+        "category": "Shoes",
+        "price": 915.87,
+        "brand": "Style Savvy",
+        "stock_quantity": 3,
+        "release_date": "4/26/2015",
+        "description": "Style Savvy's Gembucket shoes epitomize luxury footwear. These premium shoes feature exceptional materials and craftsmanship, delivering unparalleled comfort and elegance.",
+        "selectible_option": null
+    },
+    {
+        "id": "599064a2-0d53-4902-a196-89c69a351723",
+        "product_name": "Stringtough",
+        "category": "Shoes",
+        "price": 293.7,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 4,
+        "release_date": "10/20/2015",
+        "description": "Flying Dutchman's Stringtough shoes deliver reliable performance and style. These versatile footwear pieces combine durability with modern design for everyday comfort.",
+        "selectible_option": null
+    },
+    {
+        "id": "b3631646-bc13-4cc9-b193-898dc46639bb",
+        "product_name": "Transcof",
+        "category": "Shirts",
+        "price": 355.56,
+        "brand": "Style Savvy",
+        "stock_quantity": 9,
+        "release_date": "4/19/2012",
+        "description": "Style Savvy's Transcof shirt exemplifies modern fashion design. This premium garment combines sophisticated styling with exceptional comfort and quality craftsmanship.",
+        "selectible_option": null
+    },
+    {
+        "id": "a34b35f8-f253-4750-8c5d-9e7c96a469f5",
+        "product_name": "Asoka",
+        "category": "Shoes",
+        "price": 251.99,
+        "brand": "Style Savvy",
+        "stock_quantity": 10,
+        "release_date": "9/1/2021",
+        "description": "The Asoka shoes from Style Savvy represent contemporary footwear excellence. These refined shoes blend comfort with elegance, featuring premium materials and expert construction.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                38,
+                40,
+                39
+            ]
+        }
+    },
+    {
+        "id": "e23e424b-5b59-4cb8-a82a-518e600fe47b",
+        "product_name": "Hatity",
+        "category": "Shirts",
+        "price": 882.7,
+        "brand": "Style Savvy",
+        "stock_quantity": 3,
+        "release_date": "9/27/2015",
+        "description": "Style Savvy's Hatity shirt embodies luxury fashion. This meticulously crafted garment features premium fabrics and sophisticated design details for a refined appearance.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "white",
+                "blue",
+                "red",
+                "black"
+            ]
+        }
+    },
+    {
+        "id": "fdffaf6b-a912-4c09-8011-b7bd394fee1f",
+        "product_name": "Voltsillam",
+        "category": "Shoes",
+        "price": 349.61,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 4,
+        "release_date": "10/5/2014",
+        "description": "Flying Dutchman's Voltsillam shoes deliver adventurous style and durability. These versatile footwear pieces combine rugged construction with contemporary design elements.",
+        "selectible_option": null
+    },
+    {
+        "id": "e7e03052-f9b3-4b25-90de-fd6ddd25b7ee",
+        "product_name": "Mat Lam Tam",
+        "category": "Shirts",
+        "price": 173.84,
+        "brand": "Puppet Master",
+        "stock_quantity": 8,
+        "release_date": "10/2/2012",
+        "description": "The Mat Lam Tam shirt from Puppet Master showcases artistic expression in clothing. This unique garment features creative design elements and quality materials for standout style.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "white",
+                "black",
+                "blue",
+                "red"
+            ]
+        }
+    },
+    {
+        "id": "38efe4b8-2934-48e1-b539-c4b7aec5f854",
+        "product_name": "Bytecard",
+        "category": "Shoes",
+        "price": 460.59,
+        "brand": "Style Savvy",
+        "stock_quantity": 10,
+        "release_date": "5/18/2010",
+        "description": "Style Savvy's Bytecard shoes represent modern footwear innovation. These sophisticated shoes combine premium materials with expert craftsmanship for ultimate comfort and style.",
+        "selectible_option": null
+    },
+    {
+        "id": "024a5e85-aeeb-4900-9cd4-9204af8c86b1",
+        "product_name": "Ventosanzap",
+        "category": "Shirts",
+        "price": 436.09,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 5,
+        "release_date": "4/28/2010",
+        "description": "Flying Dutchman's Ventosanzap shirt embodies adventurous spirit and durability. This robust garment features quality materials and practical design for active lifestyles.",
+        "selectible_option": null
+    },
+    {
+        "id": "227f437b-9eb2-472d-a66e-506cba626846",
+        "product_name": "Otcom",
+        "category": "Shoes",
+        "price": 218.1,
+        "brand": "Puppet Master",
+        "stock_quantity": 3,
+        "release_date": "2/22/2022",
+        "description": "Puppet Master's Otcom shoes showcase artistic innovation in footwear. These unique shoes combine creative design elements with comfort for a distinctive walking experience.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                40,
+                41,
+                42,
+                38
+            ]
+        }
+    },
+    {
+        "id": "e5f1eb20-90de-4972-9ed0-f82385ea09df",
+        "product_name": "Greenlam",
+        "category": "Shirts",
+        "price": 800.35,
+        "brand": "SoledSole",
+        "stock_quantity": 9,
+        "release_date": "7/12/2015",
+        "description": "SoledSole's Greenlam shirt represents innovative fashion design. This contemporary garment features unique styling and premium materials for a distinctive look.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "white",
+                "blue",
+                "red"
+            ]
+        }
+    },
+    {
+        "id": "0d02a533-9f74-46f1-a256-dd50f02ace20",
+        "product_name": "Namfix",
+        "category": "Shirts",
+        "price": 83.62,
+        "brand": "Puppet Master",
+        "stock_quantity": 6,
+        "release_date": "3/22/2019",
+        "description": "The Namfix shirt from Puppet Master showcases artistic expression in clothing. This creative piece combines unique design elements with quality materials for distinctive style.",
+        "selectible_option": null
+    },
+    {
+        "id": "50f48f4c-8c0d-4f2f-94f8-a4438914923e",
+        "product_name": "Zontrax",
+        "category": "Shoes",
+        "price": 529.91,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 3,
+        "release_date": "4/11/2022",
+        "description": "Flying Dutchman's Zontrax shoes embody rugged adventure and reliability. These durable footwear pieces combine robust construction with practical design for active use.",
+        "selectible_option": null
+    },
+    {
+        "id": "3a74e8c2-637d-44bc-88ac-051cb7125d59",
+        "product_name": "Veribet",
+        "category": "Shirts",
+        "price": 375.5,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 5,
+        "release_date": "9/4/2014",
+        "description": "Flying Dutchman's Veribet shirt delivers adventure-ready style. This durable garment features quality materials and practical design elements for active lifestyles.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "blue",
+                "black",
+                "red",
+                "white"
+            ]
+        }
+    },
+    {
+        "id": "f251de11-02ae-4b76-a811-ac736779f153",
+        "product_name": "Y-Solowarm",
+        "category": "Shirts",
+        "price": 795.46,
+        "brand": "SoledSole",
+        "stock_quantity": 6,
+        "release_date": "11/26/2017",
+        "description": "SoledSole's Y-Solowarm shirt represents innovative fashion design. This modern garment combines contemporary styling with premium materials for a distinctive appearance.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "black",
+                "red"
+            ]
+        }
+    },
+    {
+        "id": "348fb07f-69a6-48df-b52e-0f12676442c9",
+        "product_name": "Temp",
+        "category": "Shirts",
+        "price": 449.8,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 4,
+        "release_date": "9/8/2015",
+        "description": "Flying Dutchman's Temp shirt combines durability with adventure-ready style. This robust garment features quality construction and practical design for active wear.",
+        "selectible_option": null
+    },
+    {
+        "id": "82237dc8-cf0e-42e8-81b7-f22e5fe7e295",
+        "product_name": "Bigtax",
+        "category": "Shirts",
+        "price": 268.3,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 2,
+        "release_date": "10/30/2021",
+        "description": "Flying Dutchman's Bigtax shirt combines rugged style with adventure-ready features. This versatile garment offers durability and comfort for everyday wear.",
+        "selectible_option": null
+    },
+    {
+        "id": "849b4cf5-8fc3-4435-98d7-20fccaa27ad7",
+        "product_name": "Voyatouch",
+        "category": "Shoes",
+        "price": 770.68,
+        "brand": "SoledSole",
+        "stock_quantity": 9,
+        "release_date": "4/13/2015",
+        "description": "SoledSole's Voyatouch shoes deliver premium comfort and style. These expertly crafted footwear pieces feature innovative design and superior materials.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                39,
+                40,
+                42
+            ]
+        }
+    },
+    {
+        "id": "b510cc66-f6a4-4cfc-b5ac-64d69b9ef69e",
+        "product_name": "Flexidy",
+        "category": "Shirts",
+        "price": 203.39,
+        "brand": "Style Savvy",
+        "stock_quantity": 1,
+        "release_date": "2/10/2016",
+        "description": "Style Savvy's Flexidy shirt embodies modern fashion sensibility. This trendsetting piece features contemporary design elements and premium fabric quality.",
+        "selectible_option": null
+    },
+    {
+        "id": "f16bfccf-8a88-491b-a38a-4e574d328bed",
+        "product_name": "Overhold",
+        "category": "Shoes",
+        "price": 664.5,
+        "brand": "Style Savvy",
+        "stock_quantity": 10,
+        "release_date": "7/22/2014",
+        "description": "Style Savvy's Overhold shoes represent the pinnacle of fashion-forward footwear. These sophisticated shoes combine style with exceptional comfort.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                39,
+                38
+            ]
+        }
+    },
+    {
+        "id": "951b6a7d-c980-43fb-ab5b-e1ed699d448a",
+        "product_name": "Home Ing",
+        "category": "Shoes",
+        "price": 857.06,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 1,
+        "release_date": "5/19/2014",
+        "description": "Flying Dutchman's Home Ing shoes are built for adventure and durability. These robust footwear options provide excellent support and all-day comfort.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                41,
+                42
+            ]
+        }
+    },
+    {
+        "id": "9f620100-1831-4836-b926-af49daf51124",
+        "product_name": "Job",
+        "category": "Shoes",
+        "price": 563.99,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 4,
+        "release_date": "8/13/2019",
+        "description": "Flying Dutchman's Job shoes deliver professional-grade performance. These reliable shoes combine workplace functionality with outdoor-ready durability.",
+        "selectible_option": null
+    },
+    {
+        "id": "dd83b1f7-67c3-40bc-ba99-d2a3d50f8f7a",
+        "product_name": "Holdlamis",
+        "category": "Shoes",
+        "price": 401.53,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 4,
+        "release_date": "3/13/2016",
+        "description": "Flying Dutchman's Holdlamis shoes exemplify rugged elegance. These versatile shoes feature adventure-ready construction with modern styling.",
+        "selectible_option": {
+            "option_type": "f1a44e9c-c17a-400d-b07a-39d7687f28fd",
+            "option_name": "Size",
+            "option": [
+                41,
+                39
+            ]
+        }
+    },
+    {
+        "id": "f763b129-a38c-41ee-8140-94cf2d9395fd",
+        "product_name": "Duobam",
+        "category": "Shirts",
+        "price": 447.9,
+        "brand": "SoledSole",
+        "stock_quantity": 4,
+        "release_date": "11/21/2011",
+        "description": "SoledSole's Duobam shirt showcases innovative design and comfort. This contemporary piece features quality materials and modern styling.",
+        "selectible_option": null
+    },
+    {
+        "id": "ac99d8ff-6bca-4b61-b15e-d71112ba77d5",
+        "product_name": "Cookley",
+        "category": "Shirts",
+        "price": 913.5,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 10,
+        "release_date": "2/7/2012",
+        "description": "Flying Dutchman's Cookley shirt delivers adventure-ready performance. This durable garment combines outdoor functionality with casual style.",
+        "selectible_option": null
+    },
+    {
+        "id": "5c057482-62bf-4a71-ab8a-8347c48507fb",
+        "product_name": "Matsoft",
+        "category": "Shirts",
+        "price": 647.98,
+        "brand": "SoledSole",
+        "stock_quantity": 0,
+        "release_date": "9/12/2019",
+        "description": "SoledSole's Matsoft shirt represents contemporary fashion excellence. This refined garment features premium materials and sophisticated design elements.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "black",
+                "red"
+            ]
+        }
+    },
+    {
+        "id": "1b8460ef-e540-4f6c-8dcf-77615c889695",
+        "product_name": "Y-find",
+        "category": "Shirts",
+        "price": 834.42,
+        "brand": "SoledSole",
+        "stock_quantity": 4,
+        "release_date": "12/28/2011",
+        "description": "SoledSole's Y-find shirt embodies modern fashion innovation. This stylish piece combines trendsetting design with exceptional comfort.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "black",
+                "red",
+                "white"
+            ]
+        }
+    },
+    {
+        "id": "7755fd06-b2b6-4270-bc3c-45475bd1513d",
+        "product_name": "Konklab",
+        "category": "Shirts",
+        "price": 708.23,
+        "brand": "SoledSole",
+        "stock_quantity": 3,
+        "release_date": "1/30/2012",
+        "description": "SoledSole's Konklab shirt represents the perfect blend of style and comfort. This contemporary garment features premium materials and innovative design.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "red",
+                "blue"
+            ]
+        }
+    },
+    {
+        "id": "2e479022-580a-4dc1-9a4b-931c52001928",
+        "product_name": "Tres-Zap",
+        "category": "Shirts",
+        "price": 210.17,
+        "brand": "Style Savvy",
+        "stock_quantity": 0,
+        "release_date": "7/4/2019",
+        "description": "Style Savvy's Tres-Zap shirt embodies contemporary fashion excellence. This refined garment features a unique design with sophisticated style elements perfect for the modern wardrobe.",
+        "selectible_option": {
+            "option_type": "7e4fe727-ae97-44bb-abae-ca4b3f950e35",
+            "option_name": "Color",
+            "option": [
+                "white",
+                "red",
+                "black"
+            ]
+        }
+    },
+    {
+        "id": "e9ec5822-ee41-497c-9f19-cb13747aac2b",
+        "product_name": "Alphazap",
+        "category": "Shoes",
+        "price": 659.34,
+        "brand": "SoledSole",
+        "stock_quantity": 3,
+        "release_date": "6/20/2010",
+        "description": "SoledSole's Alphazap shoes represent the pinnacle of footwear innovation. These premium shoes combine comfort and style for the perfect everyday wear.",
+        "selectible_option": null
+    },
+    {
+        "id": "9a0f3430-a9b7-492f-a793-c38700b30bdb",
+        "product_name": "Wrapsafe",
+        "category": "Shirts",
+        "price": 819.07,
+        "brand": "Style Savvy",
+        "stock_quantity": 5,
+        "release_date": "4/28/2016",
+        "description": "Style Savvy's Wrapsafe shirt delivers exceptional comfort and style. This versatile garment features premium materials and contemporary design elements.",
+        "selectible_option": null
+    },
+    {
+        "id": "f0a653e4-f3b3-4877-be7d-63332b4b8e82",
+        "product_name": "Redhold",
+        "category": "Shirts",
+        "price": 862.87,
+        "brand": "Puppet Master",
+        "stock_quantity": 5,
+        "release_date": "4/14/2015",
+        "description": "Puppet Master's Redhold shirt showcases bold creativity and unique style. This distinctive shirt combines artistic flair with premium craftsmanship.",
+        "selectible_option": null
+    },
+    {
+        "id": "effe67bc-9f86-4c7a-aaeb-162892a57cd4",
+        "product_name": "Bamity",
+        "category": "Shirts",
+        "price": 510.14,
+        "brand": "Puppet Master",
+        "stock_quantity": 4,
+        "release_date": "7/15/2020",
+        "description": "Puppet Master's Bamity shirt represents artistic expression in fashion. This creative piece features unique design elements and superior comfort.",
+        "selectible_option": null
+    },
+    {
+        "id": "3d0a87f9-b05e-434a-9949-13549644144f",
+        "product_name": "Viva",
+        "category": "Shirts",
+        "price": 414.8,
+        "brand": "Style Savvy",
+        "stock_quantity": 5,
+        "release_date": "2/8/2016",
+        "description": "Style Savvy's Viva shirt embodies modern elegance and sophistication. This refined garment offers both style and comfort for the fashion-conscious individual.",
+        "selectible_option": null
+    },
+    {
+        "id": "c1c2ec79-0cf6-4b1d-98a8-06a0b3610ec6",
+        "product_name": "Zathin",
+        "category": "Shoes",
+        "price": 93.54,
+        "brand": "Puppet Master",
+        "stock_quantity": 5,
+        "release_date": "10/8/2011",
+        "description": "Puppet Master's Zathin shoes represent artistic innovation in footwear. These unique shoes combine creative design elements with exceptional comfort.",
+        "selectible_option": null
+    },
+    {
+        "id": "31d034dd-4d86-4b9b-9784-cf03788e552b",
+        "product_name": "Keylex",
+        "category": "Shirts",
+        "price": 228.52,
+        "brand": "Flying Dutchman",
+        "stock_quantity": 8,
+        "release_date": "6/3/2011",
+        "description": "Flying Dutchman's Keylex shirt embodies adventurous spirit and quality craftsmanship. This dynamic garment features durable materials and innovative design elements.",
+        "selectible_option": null
+    }]

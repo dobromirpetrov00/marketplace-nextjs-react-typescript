@@ -1,0 +1,29 @@
+.pagination {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.page-nav,
+.page-number {
+  margin-left: 0.5rem;
+  cursor: pointer;
+  background-color: white;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  height: 30px;
+  min-width: 30px;
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+
+  &:not(:disabled):hover {
+    background-color: lightgray;
+  }
+}
+
+.active {
+  background-color: lightgray;
+}

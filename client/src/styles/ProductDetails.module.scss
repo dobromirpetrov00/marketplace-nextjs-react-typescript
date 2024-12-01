@@ -1,0 +1,118 @@
+.product-details-content {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 768px) {
+  .product-details-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .product-image {
+    width: 300px;
+  }
+}
+
+.product-image, .product-details-info {
+  flex: 1;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.product-name {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.product-brand, .product-description {
+  margin-bottom: 10px;
+  color: gray;
+}
+
+.product-price {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.product-options-container {
+  margin-bottom: 10px;
+}
+
+.product-options-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.product-options {
+  appearance: none;
+  border-radius: 5px;
+  font: inherit;
+  padding: 0.5em 3.5em 0.5em 1em;
+  background-image:
+    linear-gradient(45deg, transparent 50%, gray 50%),
+    linear-gradient(135deg, gray 50%, transparent 50%),
+    linear-gradient(to right, #ccc, #ccc);
+  background-position:
+    calc(100% - 20px) calc(1em + 2px),
+    calc(100% - 15px) calc(1em + 2px),
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+
+  &:focus {
+  background-image:
+    linear-gradient(45deg, gray 50%, transparent 50%),
+    linear-gradient(135deg, transparent 50%, gray 50%),
+    linear-gradient(to right, #ccc, #ccc);
+  background-position:
+    calc(100% - 15px) 1em,
+    calc(100% - 20px) 1em,
+    calc(100% - 2.5em) 0.5em;
+  background-size:
+    5px 5px,
+    5px 5px,
+    1px 1.5em;
+  background-repeat: no-repeat;
+  outline: 0;
+  }
+}
+
+.add-to-cart-button {
+  margin-bottom: 10px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid black;
+  border-radius: 5px;
+
+  &:not(:disabled):hover {
+    opacity: 0.8;
+    cursor: pointer;
+    border: 1px solid gray;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+}
+
+.product-quantity {
+  margin-bottom: 10px;
+}
+
+.stock_quantity_number {
+  color: green;
+}
+
+.out-of-stock {
+  color: red;
+}
